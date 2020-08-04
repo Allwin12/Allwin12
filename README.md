@@ -19,6 +19,6 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Allwin12&show_icons=true&hide_border=true" />
 
 [website]: https://www.pythoncoders.org/
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/ra_allwin
+[instagram]: https://www.instagram.com/all__win__/
 [linkedin]: https://www.linkedin.com/in/allwin-raju-18748b156/
